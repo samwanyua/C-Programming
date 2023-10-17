@@ -6,7 +6,7 @@ int main(){
     bool sunny = false;
     
 
-    if(!sunny ==1 ){
+    if(!sunny ==1 ){ //it's the same as 'sunny == true' or 'sunny'
         printf("\nThe weather is bad!\n");
     }
     else{
