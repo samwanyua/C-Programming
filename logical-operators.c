@@ -2,7 +2,7 @@
 #include <stdbool.h>
 
 int main(){
-
+    // && checks if two conditions are true
     float temp = 21;
     bool sunny = false;
 
